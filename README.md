@@ -148,6 +148,6 @@ Backed by Investors from different industries and financial VCs with $100M in in
 # Aurora Labs LOCI News 🗞
 ## ✨ On the horizon with LOCI 🥳
 
-LOCI Advisor with Test Selection Capability!
+LOCI Advisor working with Quality and Static Code Analisys Tools.
 
 
