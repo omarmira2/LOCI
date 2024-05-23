@@ -54,7 +54,7 @@ Extract function for the selected candidate(s) from the list "Similar Code Segme
 
 ![gif2](https://github.com/stojanai/LOCI/blob/main/3.1.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
 
-## ✨ Manually Fix & Apply for All Similar Segments Selected 
+## ✨ Manually Fix & Apply for the Selected Similar Segments 
 Select a code segment from the list "Similar Code Segments", change the code in the box "Select & Apply", than "Apply Changes". Tool option "Replace Similar Code".
 
 ![gif2](https://github.com/stojanai/LOCI/blob/main/4.1.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
