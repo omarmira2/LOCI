@@ -7,7 +7,7 @@ If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in t
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
 
 ## What is LOCI?
-LOCI is an AI tool built to empower enigneers for the entire lifecycle of software development.
+LOCI stands for Lines-of-Code Intelligence and is an AI tool built to empower enigneers for the entire lifecycle of software development.
 Using LOCI, the engineers can learn and better understand the system functionality and the dependencies developed.
 
 ## What can I expect from LOCI?
