@@ -66,7 +66,7 @@ Prioritize the quality fix activities based on the occurrence of the problem in 
 ![gif2](https://github.com/stojanai/LOCI/blob/main/5.1.%20Rules%20Management.gif)
 
 
-## ✨ Use Cases and LOCI addeed value 🚀
+## ✨ Use Cases and LOCI added value 🚀
 Why continuous Refactoring is a MUST and not an Option? 
 Why including refactoring and optimization techniques in the product Roadmap, every sprint?
 
