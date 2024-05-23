@@ -6,8 +6,38 @@ Meet LOCI, your AI Quality Advisor, able to safeguard increased performance & re
 If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in the Visual Studio Code marketplace at this link:
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
 
+## What is LOCI?
+LOCI is an AI tool built to empower enigneers for the entire lifecycle of software development.
+Using LOCI, the engineers can learn and better understand the system functionality and the dependencies developed.
 
-## What can you do with LOCI today?
+## What are to expect from LOCI?
+LOCI offers additional intelligence conversations and can explain the impact of project branching on software behavior.
+
+LOCI can compare the integration efforts of different pull requests and detect dead code while providing full root cause analysis and evidence, even for LIB, which does not have access to the source code. 
+
+LOCI also identifies cloned code across multiple repositories, creating a clear view of current and older systems for maintenance. This helps developers understand system functionality and dependencies. 
+
+LOCI aims to help developers and testers with a better understanding of how to make the SW more reliable and meet the project's quality KPIs, even using it for LIB without access to source code.
+
+## Can I use LOCI and COPILOT?
+Yes! In fact, LOCI intelligence conversations can be used after COPILOT and COPILOT X for further technical advice to ensure maximum quality. 
+
+## Can I use LOCI for embedded systems?
+Yes! LOCI is knowledgeable about embedded systems and trained on different SOCs and systems on chips with different compilers and configurations of multicores and GPUs. At this stage, some of the supported manufacturers are Infineon, ST, NXP, NVIDIA, and Renesas. 
+
+## Aurora Labs LCLM
+
+LOCI is equipped with Aurora Labs’ LCLM, Which Uses transformers and reinventing Tokenizers and vocabularies for language programs and BIN files to analyze software artifacts and create new meaningful insights for more reliable and high-quality SW.
+
+
+The tokenizers are x1000 smaller and trained on real-time tracing of different systems with more than 5B lines of code. The model created over 2B ASM tokens and has a built-in error prediction mechanism to ensure continuous model quality.
+
+
+## So, what can you do with LOCI TODAY?
+
+LOCI 2.0 Alpha version starts with an advanced refactoring tool: LOCI for Refactoring.
+
+The LOCI 2.0 Alpha version is currently in technical preview. It is available to the first 5000 early adaptors, and users can join the waitlist to access it.
 
 ## ✨ Full Transparency of the Redundant Code 
 Scan and display the list of redundant code segments in your project. Tool option: "All Segments(All Files)".
@@ -102,3 +132,22 @@ Preparing the Code for Extensions: Refactoring can help in reorganizing the code
 
 We believe in collaboration and feedback, which is why we encourage you to get involved in our vibrant and welcoming Discord community. Feel free to ask questions, suggest new features, and share your experience with fellow coders.
 [Click here to join our Discord.](https://discord.gg/vgTGsVr69s)
+
+## About Aurora Labs, the creator of LOCI
+90 passionate Product, AI, and SW engineers who love to build products for developers.
+
+
+We have the highest quality products and certification for critical safety mission systems.
+
+
+Backed by Investors from different industries and financial VCs with $100M in investments.
+
+
+
+# Aurora Labs LOCI News 🗞
+## ✨ Stay up to get with LOCI roadmap for 2024 🥳
+
+Highlight of August 28 Release: meet LOCI Advisor with test Selection Capasbility!
+
+Highlight of November 28 Release: tell LOCI what he can do for you! Make your wish!
+
