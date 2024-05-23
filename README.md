@@ -35,7 +35,7 @@ The tokenizers are x1000 smaller and trained on real-time tracing of different s
 
 ## So, what can you do with LOCI TODAY?
 
-LOCI 2.0 Alpha version starts with an advanced refactoring tool: LOCI for Refactoring.
+With LOCI capability to automatically isolate or refactor selected segments into separate functions, the engineer can climinate duplications and enhance the build time.
 
 The LOCI 2.0 Alpha version is currently in technical preview. It is available to the first 5000 early adaptors, and users can join the waitlist to access it.
 
