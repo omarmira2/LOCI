@@ -10,7 +10,7 @@ If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in t
 LOCI is an AI tool built to empower enigneers for the entire lifecycle of software development.
 Using LOCI, the engineers can learn and better understand the system functionality and the dependencies developed.
 
-## What are to expect from LOCI?
+## What can I expect from LOCI?
 LOCI offers additional intelligence conversations and can explain the impact of project branching on software behavior.
 
 LOCI can compare the integration efforts of different pull requests and detect dead code while providing full root cause analysis and evidence, even for LIB, which does not have access to the source code. 
