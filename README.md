@@ -8,7 +8,7 @@ If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in t
 
 ## What is LOCI?
 LOCI stands for Lines-of-Code Intelligence and is an AI tool built to empower engineers for the entire lifecycle of software development.
-Using LOCI, the engineers can learn and better understand the system functionality and the dependencies developed.
+Using LOCI, you can learn and better understand the system functionality and the dependencies developed.
 
 ## What can I expect from LOCI?
 LOCI offers additional intelligence conversations and can explain the impact of project branching on software behavior.
