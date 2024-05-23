@@ -146,9 +146,8 @@ Backed by Investors from different industries and financial VCs with $100M in in
 
 
 # Aurora Labs LOCI News 🗞
-## ✨ Stay up to get with LOCI roadmap for 2024 🥳
+## ✨ On the horizon with LOCI 🥳
 
-Highlight of August 28 Release: meet LOCI Advisor with test Selection Capability!
+LOCI Advisor with Test Selection Capability!
 
-Highlight of November 28 Release: tell LOCI what he can do for you! Make your whish!
 
