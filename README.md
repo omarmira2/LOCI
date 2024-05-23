@@ -36,8 +36,9 @@ The tokenizers are x1000 smaller and trained on real-time tracing of different s
 ## So, what can you do with LOCI TODAY?
 
 By automatically isolate or refactor selected segments into separate functions, LOCI can climinate duplications and enhance the build time.
+The current 
 
-The LOCI 2.0 Alpha version is currently in technical preview. It is available to the first 5000 early adaptors, and users can join the waitlist to access it.
+Be our early adaptor and meet the pre-release LOCI version built as your efficiency companion for optimizing code with tailored suggestions and real-time assistance.
 
 ## ✨ Full Transparency of the Redundant Code 
 Scan and display the list of redundant code segments in your project. Tool option: "All Segments(All Files)".
