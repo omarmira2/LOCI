@@ -27,7 +27,7 @@ Yes! LOCI is knowledgeable about embedded systems and trained on different SOCs 
 
 ## Aurora Labs LCLM
 
-LOCI is equipped with Aurora Labs’ LCLM, Which Uses transformers and reinventing Tokenizers and vocabularies for language programs and BIN files to analyze software artifacts and create new meaningful insights for more reliable and high-quality SW.
+LOCI is equipped with Aurora Labs’ LCLM, which Uses transformers and reinvents Tokenizers and vocabularies for language programs and BIN files to analyze software artifacts and create new meaningful insights for more reliable and high-quality SW.
 
 
 The tokenizers are x1000 smaller and trained on real-time tracing of different systems with more than 5B lines of code. The model created over 2B ASM tokens and has a built-in error prediction mechanism to ensure continuous model quality.
