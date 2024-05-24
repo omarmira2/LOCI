@@ -7,13 +7,14 @@ If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in t
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
 
 ## What is LOCI?
-LOCI stands for Lines-of-Code Intelligence and is an AI tool built to empower engineers for the entire lifecycle of software development.
+LOCI stands for Lines-of-Code Intelligence and is an AI tool that integrates into the lifecycle of software development.
 Using LOCI, you can learn and better understand the system functionality and the dependencies developed.
 
 ## What can I expect from LOCI?
-LOCI offers additional intelligence conversations and can explain the impact of project branching on software behavior.
+LOCI offers additional intelligence that explains the impact of project branching on software behavior.
 
-LOCI can compare the integration efforts of different pull requests and detect dead code while providing full root cause analysis and evidence, even for LIB, which does not have access to the source code. 
+LOCI can compare the integration efforts of different pull requests helping you decide which is the stabil version you want to release.
+LOCI can detect and display for you with unprecedent transparency the full trace of the root cause analysis, including the dead code (functions that were never executed) and the 3rd party libraries, which is commonly conssidered a black box in Troubleshooting because the developers don't have access to that source code.
 
 LOCI also identifies cloned code across multiple repositories, creating a clear view of current and older systems for maintenance. This helps developers understand system functionality and dependencies. 
 
