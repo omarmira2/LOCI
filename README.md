@@ -158,4 +158,4 @@ LOCI Advisor working with Quality and Static Code Analisys Tools.
 
 
 ## ✨ FAQ
-Got a question or suggestions? Get in touch wiht us [Support](https://www.auroralabs.com/contact-us/) 
+Got a question or suggestions? Get in touch with us [Support](https://www.auroralabs.com/contact-us/) 
