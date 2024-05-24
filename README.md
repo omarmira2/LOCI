@@ -33,14 +33,12 @@ LOCI is equipped with Aurora Labs’ LCLM, which Uses transformers and reinvents
 The tokenizers are x1000 smaller and trained on real-time tracing of different systems with more than 5B lines of code. The model created over 2B ASM tokens and has a built-in error prediction mechanism to ensure continuous model quality.
 
 
-## So, what can I do with LOCI TODAY?
+## What can I do with LOCI TODAY?
 
-The current version is a technical preview available for Early Adaptors.
-By automatically isolating or refactoring selected segments into separate functions, LOCI can climinate for you code segments duplications and enhance the build time.
+The pre-release version is a technical preview available for 5000 Early Adaptors and is focused on the benfits of reducing the duplicate code segments.
 
+By automatically isolating or refactoring selected segments into separate functions, LOCI can climinate for you duplications and enhance the build time.
 
-
-Be our early adaptor and meet the pre-release LOCI version built as your efficiency companion for optimizing code with tailored suggestions and real-time assistance.
 
 ## ✨ Full Transparency of the Redundant Code 
 Scan and display the list of redundant code segments in your project. Tool option: "All Segments(All Files)".
