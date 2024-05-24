@@ -33,7 +33,7 @@ LOCI is equipped with Aurora Labs’ LCLM, which Uses transformers and reinvents
 The tokenizers are x1000 smaller and trained on real-time tracing of different systems with more than 5B lines of code. The model created over 2B ASM tokens and has a built-in error prediction mechanism to ensure continuous model quality.
 
 
-## So, what can you do with LOCI TODAY?
+## So, what can I do with LOCI TODAY?
 
 By automatically isolate or refactor selected segments into separate functions, LOCI can climinate duplications and enhance the build time.
 The current 
