@@ -18,7 +18,8 @@ LOCI can detect and display for you with unprecedent transparency the full trace
 
 LOCI also identifies cloned code across multiple repositories, creating a clear view of current and older systems for maintenance. This helps developers understand system functionality and dependencies. 
 
-LOCI aims to help the developers and the testers with a better understanding of how to make the SW more reliable and meet the project's quality KPIs much faster, even for binaries with no access to source code.
+LOCI aims to help the developers and the testers with a better understanding of how to make the SW more reliable and meet the project's quality KPIs easy and faster, even for binaries where there is no access to source code.
+
 
 ## Can I use LOCI and COPILOT?
 Yes! In fact, LOCI intelligence conversations can be used after COPILOT and COPILOT X for further technical advice to ensure maximum quality. 
@@ -33,6 +34,10 @@ LOCI is equipped with Aurora Labs’ LCLM, which Uses transformers and reinvents
 
 The tokenizers are x1000 smaller and trained on real-time tracing of different systems with more than 5B lines of code. The model created over 2B ASM tokens and has a built-in error prediction mechanism to ensure continuous model quality.
 
+
+To learn more about LOCI, please refer to Use Case and Added Value.
+
+To learn how to use LOCI today, please read below.
 
 ## What can I do with LOCI TODAY?
 
