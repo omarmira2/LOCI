@@ -151,5 +151,5 @@ Backed by Investors from different industries and financial VCs with $100M in in
 LOCI Advisor working with Quality and Static Code Analisys Tools.
 
 
-## FAQ
+## ✨ FAQ
 Got a question or suggestions? Get in touch wiht us [Support](https://www.auroralabs.com/contact-us/) 
