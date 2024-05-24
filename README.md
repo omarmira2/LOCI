@@ -18,7 +18,7 @@ LOCI can detect and display for you with unprecedent transparency the full trace
 
 LOCI also identifies cloned code across multiple repositories, creating a clear view of current and older systems for maintenance. This helps developers understand system functionality and dependencies. 
 
-LOCI aims to help developers and testers with a better understanding of how to make the SW more reliable and meet the project's quality KPIs, even using it for LIB without access to source code.
+LOCI aims to help the developers and the testers with a better understanding of how to make the SW more reliable and meet the project's quality KPIs much faster, even for binaries with no access to source code.
 
 ## Can I use LOCI and COPILOT?
 Yes! In fact, LOCI intelligence conversations can be used after COPILOT and COPILOT X for further technical advice to ensure maximum quality. 
