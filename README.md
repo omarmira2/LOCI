@@ -35,8 +35,10 @@ The tokenizers are x1000 smaller and trained on real-time tracing of different s
 
 ## So, what can I do with LOCI TODAY?
 
-By automatically isolate or refactor selected segments into separate functions, LOCI can climinate duplications and enhance the build time.
-The current 
+The current version is a technical preview available for Early Adaptors.
+By automatically isolating or refactoring selected segments into separate functions, LOCI can climinate for you code segments duplications and enhance the build time.
+
+
 
 Be our early adaptor and meet the pre-release LOCI version built as your efficiency companion for optimizing code with tailored suggestions and real-time assistance.
 
