@@ -1,7 +1,7 @@
 # Aurora Labs LOCI News 🗞
 ## ✨ Support Lines-of-Code Intelligence (LOCI) 🥳
 
-Meet LOCI, your AI Quality Advisor, able to safeguard increased performance & resource efficient usage as daily bases activity.
+Meet LOCI, your AI SW Quality Advisor, able to safeguard increased performance & resource efficient usage as daily bases activity.
 
 If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in the Visual Studio Code marketplace at this link:
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
