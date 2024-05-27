@@ -2,14 +2,14 @@
 ✨ First launch, LOCI for Refactoring.
 AI and Machine Learning help understand coding patterns better and suggest more intelligent refactoring changes that adapt to the project or developer's coding style.
 
-##Get AI refactoring advice in real-time, right in your IDE
-![Alt-Text]
-(https://github.com/stojanai/LOCI/blob/main/1.1.%20Full%20transparency%20of%20redundant%20code%20v1.gif)
+## Get AI refactoring advice in real-time, right in your IDE
 
-##Privacy
+![Alt-Text](https://github.com/stojanai/LOCI/blob/main/1.1.%20Full%20transparency%20of%20redundant%20code%20v1.gif)
+
+## Privacy
 What is yours stays yours; you can learn more about our privacy and responsible AI at www.loci-dev.com/privecy
 
-##Under the hood
+## Under the hood
 ✨LOCI uses our built-in, proprietary Large Code Language Model (LCLM), a TRANSFORMER model based on our layers. It has been trained on over 
 5 billion lines of code in C and C++, creating billions of new tokens, making AI-based refactoring real and reliable.
 
