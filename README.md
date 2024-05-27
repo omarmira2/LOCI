@@ -32,6 +32,7 @@ Extract function for the selected candidate(s)
 
 ## ✨ Fix Manually in one time, one place and apply for all other similar segments
 This will reduce software maintenance and bug-fixing time by 20-30%.
+
 ![gif2](https://github.com/stojanai/LOCI/blob/main/4.1.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
 
 ## ✨ Use Cases and LOCI added value 🚀
